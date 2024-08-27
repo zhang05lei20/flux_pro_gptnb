@@ -9,5 +9,7 @@
 {
   "flux_pro_api_token": "xxx"
 }
+```
 
-<img width="394" alt="b66021f7f6cd1e96721d77821a8ac17" src="https://github.com/user-attachments/assets/6450bb6d-7766-4043-add3-6e3163b51467">
+<img width="394" alt="b66021f7f6cd1e96721d77821a8ac17" src="https://github.com/user-attachments/assets/37cbfbcf-b996-43f2-8019-78669df4425e">
+
